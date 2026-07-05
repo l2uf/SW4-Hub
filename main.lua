@@ -1,0 +1,21 @@
+-- SW4 HUB PROTECTED AGAINST TRANSLATION
+local encoded_script = "bG9jYWwgUmF5ZmllbGQgPSBsb2Fkc3RyaW5nKGdhbWU6SHR0cEdldCgnaHR0cHM6Ly9zaXJpdXMubWVudS9yYXlmaWVsZCcpKSgpCmxvY2FsIFdpbmRvdyA9IFJheWZpZWxkOkNyZWF0ZVdpbmRvdyh7CiAgIE5hbWUgPSAi2LPZg9ix2K theatermIFNXNCAvINmF2KfZgCDYp9mE2KjZitmI2Kog8J+PvSIsCiAgIExvYWRpbmdUaXRsZSA9ICLYrNmF2LHZiiDYqtit2YXZitmEINiz2Nqp2LHYqqiIFNXNC4uLiIsCiAgIExvYWRpbmdTdWJ0aXRsZSA9ICLYqNmI2KfYs9i32Kkg2YHYsdmK2YIgU1c0IiwKICAgVGhlbWUgPSAiRGVmYXVsdCIsCiAgIENvbmZpZ3VyYXRpb25TYXZpbmcgPSB7CiAgICAgIEVuYWJsZWQgPSB0cnVlLAogICAgICBGb2xkZXJOYW1lID0gIlNXNF9Db25maWdzIiwKICAgICAgRmlsZU5hbWUgPSAiU1c0X0h1YiIKICAgfQp9KQoKbG9jYWwgUGxheWVyVGFiID0gV2luZG93OkNyZWF0ZVRhYigi2YLYp9im2YXYpSDYp9mE2YTYp9i52Kgg8J+RgSIsIDQ0ODMzNDU5OTgpCgpQbGF5ZXJUYWI6Q3JlYXRlU2xpZGVyKHsKICAgTmFtZSA9ICLYs9ix2LnYpSDYp9mE2YXYtNmKIChXYWxrU3BlZWQpIiwKICAgUmFuZ2UgPSB7MTYsIDIwMH0sCiAgIEluY3JlbWVudCA9IDEsCiAgIEN1cnJlbnRWYWx1ZSA9IDE2LAogICBGbGFnID0gIlNwZWVkU2xpZGVyIiwKICAgQ2FsbGJhY2sgPSBmdW5jdGlvbihWYWx1ZSkKICAgICAgZ2FtZS5QbGF5ZXJzLkxvY2FsUGxheWVyLkNoYXJhY3Rlci5IdW1hbm9pZC5XYWxrU3BlZWQgPSBWYWx1ZQogICBlbmQsCn0pCgpQbGF5ZXJUYWI6Q3JlYXRlU2xpZGVyKHsKICAgTmFtZSA9ICLYp9mI2Kkg2KfZhNmC2YHYstiSAoZpY21wUG93ZXIpIiwKICAgUmFuZ2UgPSB7NTAsIDMwMH0sCiAgIEluY3JlbWVudCA9IDEsCiAgIEN1cnJlbnRWYWx1ZSA9IDUwLAogICBGbGFnID0gIkp1bXBTbGlkZXIiLAogICBCYWxsYmFjayA9IGZ1bmN0aW9uKFZhbHVlKQogICAgICBnYW1lLlBsYXllcnMuTG9jYWxQbGF5ZXIuQ2hhcmFjdGVyLkh1bWFub2lkLkp1bXBQb3dlciA9IFZhbHVlCiAgIGVuZCwKfSkKCmxvY2FsIE1hcFRhYiA9IFdpbmRvdy6Q3JlYXRlVGFiKCLYp9mE2YXYp9ioINmI2KfZhCDYqNmK2YjYqiDwnY+eIiwgNDQ4MzM0NTk5OCkKCk1hcFRhYjpDcmVhdGVCdXR0b24oewogICBOYW1lID0gIteq2YHYudin2YrZhCDZg9i02YEg2KPZhdin2YpZgiDYp9mE2YTYp9i52KjZitmZIChFU1ApIiwKICAgQ2FsbGJhY2sgPSBmdW5jdGlvbigpCiAgICAgIGZvciBfLCBwbGF5ZXIgaW4gcGFpcnMoZ2FtZS5QbGF5ZXJzOkdldENoaWxkcmVuKCkpIGRvCiAgICAgICAgIGlmIHBsYXllciA9PSBnYW1lLlBsYXllcnMuTG9jYWxQbGF5ZXIuYW5kIHBsYXllci5DaGFyYWN0ZXIgYW5kIHBsYXllci5DaGFyYWN0ZXI6RmluZEZpcnN0Q2hpbGQoIkh1bWFub2lkUm9vdFBhcnQiKSB0aGVuCiAgICAgICAgICAgIGlmIG5vdCBwbGF5ZXIuQ2hhcmFjdGVyLkh1bWFub2lkUm9vdFBhcnQ6RmluZEZpcnN0Q2hpbGQoIkhpZ2hsaWdodCIpIHRoZW4KICAgICAgICAgICAgICAgbG9jYWwgaGlnaGxpZ2h0ID0gSW5zdGFuY2UubmV3KCJIaWdobGlnaHQiKQogICAgICAgICAgICAgICBoaWdobGlnaHQuUGFyZW50ID0gcGxheWVyLkNoYXJhY3RlcgogICAgICAgICAgICAgICBoaWdobGlnaHQuRmlsbENvbG9yID0gQ29sb3IzLmZyb21SR0IoMjU1LCAwLCAwKQogICAgICAgICAgICAgICBoaWdobGlnaHQuT3V0bGluZUNvbG9yID0gQ29sb3IzLmZyb21SR0IoMjU1LCAyNTUsIDI1NSkKICAgICAgICAgICAgZW5kCiAgICAgICAgIGVuZAogICAgICBlbmQKICAgICAgUmF5ZmllbGQ6Tm90aWZ5KHtUaXRsZSA9ICLYpdm02LnYp9ixIFNXNCIsIENvbnRlbnQgPSAi2KrZhSDZg9i02YEg2KzZXZmK2LMg2KfZhNmE2KfZudin2KjZitmZINio2YbYrNin2KshIiwgRHVyYXRpb24gPSAzfSkKICAgZW5kLAp9KQoKbG9jYWwgQ3JlZGl0c1RhYiA9IFdpbmRvdy6Q3JlYXRlVGFiKCLYp9mE2K3ZgtiIIPCfkyIsIDQ0ODMzNDU5OTgpCkNyZWRpdHNUYWI6Q3JlYXRlUGFyYWdyYXBoKHtUaXRsZSA9ICLZhdfZg9iyINiq2YHYudin2KogU1c0IiwgQ29udGVudCA9ICLYqtmFINti2YbYqiDYp9mE2LPZg9ix2KptINmI2KrYudin2LHZitmZINio2YjYp9iz2LfZmSBTVzQuXG7Zitiv2LnZhSDYqti02LndaWwgRGVsdGEgRXhlY3V0b3Ig2YjZg9mEINmF2LTYp9mE2KfYqi4ifSk="
+local b64chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+local function decode(data)
+    data = string.gsub(data, '[^'..b64chars..'=]', '')
+    return (string.gsub(data, '(.)(.)?(.)?(.)?', function(a,b,c,d)
+        if not a then return '' end
+        local m = string.find(b64chars, a) - 1
+        local n = string.find(b64chars, b or 'A') - 1
+        local o = string.find(b64chars, c or 'A') - 1
+        local p = string.find(b64chars, d or 'A') - 1
+        local v1 = m*4 + math.floor(n/16)
+        local v2 = (n%16)*16 + math.floor(o/4)
+        local v3 = (o%4)*64 + p
+        local r1 = string.char(v1)
+        local r2 = c ~= '=' and string.char(v2) or ''
+        local r3 = d ~= '=' and string.char(v3) or ''
+        return r1..r2..r3
+    end))
+end
+assert(loadstring(decode(encoded_script)))()
